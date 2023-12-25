@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=200&color=76F700&center=true&multiline=true&random=false&width=500&height=70&lines=42+%E2%80%94+The+Ultimate+Question+of+Life%2C;the+Universe%2C+and+Everything" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=200&color=76F700&center=true&multiline=true&random=false&width=600&height=70&lines=42+%E2%80%94+The+Ultimate+Question+of+Life%2C;the+Universe%2C+and+Everything" alt="Typing SVG" /></a>
 
 <!--
 **N0namenull/N0namenull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
